@@ -9,6 +9,7 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 - It's open source, you can modify it to your liking (it also includes an IntelliJ IDEA project file).
 - It does not override the original `/stop` functionality.
 ## Download
-- Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/)
-- Download from [GitHub](https://github.com/BetTD/PteroBungee/releases)
+- Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/).
+- Download from [GitHub](https://github.com/BetTD/PteroBungee/releases).
+
 More mirrors are coming soon, for both Europe and America.
