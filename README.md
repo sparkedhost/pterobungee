@@ -8,6 +8,10 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 - It's lightweight, only 3,07KB in size.
 - It's open source, you can modify it to your liking (it also includes an IntelliJ IDEA project file).
 - It does not override the original `/stop` functionality.
+## How to install
+1. Shut down your BungeeCord instance: first click on the Stop button on your Pterodactyl panel andthen type `end` in console.
+2. Upload `PteroBungee-v1.0.2.jar` to the "plugins" folder.
+3. Start the BungeeCord instance.
 ## Download
 - Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/).
 - Download from [GitHub](https://github.com/BetTD/PteroBungee/releases).
