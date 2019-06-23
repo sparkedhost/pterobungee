@@ -5,7 +5,7 @@ This BungeeCord plugin fixes an incompatibility in some installations of the Pte
 For the "Starting..." status, the plugin creates a fake "Done" message, just like when a Spigot/Bukkit server finishes booting up. That message triggers the Pterodactyl "Online" status.
 For the "Stop" button, this was an easier fix. It creates a command called `stop` that if called through console, it will stop the BungeeCord instance, and if called by a player, the plugin will force that player to execute `/minecraft:stop` on the current server they are in so administrators are still able to shut down Spigot/Bukkit instances.
 ## Features
-- It's lightweight, only 3,07KB in size.
+- It's lightweight, only 2,93KB in size.
 - It's open source, you can modify it to your liking (it also includes an IntelliJ IDEA project file).
 - It does not override the original `/stop` functionality.
 ## How to install

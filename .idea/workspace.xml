@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2b01dc15-7a36-4f7d-b4e4-fdf7337d52d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BungeeStuff/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BungeeStuff/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561252528997</updated>
-      <workItem from="1561252536577" duration="16107000" />
+      <workItem from="1561252536577" duration="17121000" />
     </task>
     <servers />
   </component>
