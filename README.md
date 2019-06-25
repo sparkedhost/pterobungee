@@ -6,6 +6,7 @@ For the "Starting..." status, the plugin creates a fake "Done" message, just lik
 For the "Stop" button, this was an easier fix. It creates a command called `stop` that if called through console, it will stop the BungeeCord instance, and if called by a player, the plugin will force that player to execute `/minecraft:stop` on the current server they are in so administrators are still able to shut down Spigot/Bukkit instances.
 ## Features
 - It's lightweight, only 2,93KB in size.
+- As our testings show, RAM usage is not increased.
 - It's open source, you can modify it to your liking (it also includes an IntelliJ IDEA project file).
 - It does not override the original `/stop` functionality.
 ## How to install
