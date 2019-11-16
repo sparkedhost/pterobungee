@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b01dc15-7a36-4f7d-b4e4-fdf7337d52d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/bettd/pterobungee/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/BungeeCord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/BungeeCord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BungeeStuff/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BungeeStuff/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/bettd/pterobungee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/bettd/pterobungee/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Descargas/BungeeCord.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Descargas/BungeeCord.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,9 +42,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30147058" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -77,6 +76,8 @@
       <updated>1561252528997</updated>
       <workItem from="1561252536577" duration="21472000" />
       <workItem from="1561555606279" duration="3781000" />
+      <workItem from="1569941277806" duration="555000" />
+      <workItem from="1569941855255" duration="812000" />
     </task>
     <servers />
   </component>
