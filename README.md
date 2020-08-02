@@ -1,6 +1,6 @@
 # PteroBungee
 ## Description
-This BungeeCord plugin fixes an incompatibility in some installations of the Pterodactyl panel, where setting up a Bungee instance would show the status as "Starting..." even when the server is online, and the Stop button wouldn't work. A good example for this is Sparked Host LLC, where I am a customer and while I was not having this issue, many customers were, so I started creating this BungeeCord plugin.
+Description being remade.
 ## How does this work?
 For the "Starting..." status, the plugin creates a fake "Done" message, just like when a Spigot/Bukkit server finishes booting up. That message triggers the Pterodactyl "Online" status.
 For the "Stop" button, this was an easier fix. It creates a command called `stop` that if called through console, it will stop the BungeeCord instance, and if called by a player, the plugin will force that player to execute `/minecraft:stop` on the current server they are in so administrators are still able to shut down Spigot/Bukkit instances.
@@ -16,6 +16,3 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 ## Download
 - Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/).
 - Download from [GitHub](https://github.com/BetTD/PteroBungee/releases).
-## Sponsor
-**Sparked Host LLC has the cheapest prices, $1/GB on Budget Minecraft servers!**
-[Check it out!](https://billing.sparkedhost.us/aff.php?aff=229)
