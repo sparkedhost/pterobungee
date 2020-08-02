@@ -15,4 +15,4 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 3. Start the BungeeCord instance.
 ## Download
 - Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/).
-- Download from [GitHub](https://github.com/BetTD/PteroBungee/releases).
+- Download from [GitHub](https://github.com/sparkedhost/PteroBungee/releases).
