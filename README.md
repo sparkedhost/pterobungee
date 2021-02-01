@@ -14,5 +14,5 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 2. Upload `PteroBungee-v1.2.0.jar` to the "plugins" folder.
 3. Start the BungeeCord instance.
 ## Download
-- Download from [Direct](https://data.harrydev.me/PteroBungee-1.2.0.jar).
+- Download from [Direct](https://data.harrydev.me/PteroBungee/PteroBungee-1.2.0.jar).
 - Download from [GitHub](https://github.com/sparkedhost/PteroBungee/releases).
