@@ -11,8 +11,8 @@ For the "Stop" button, this was an easier fix. It creates a command called `stop
 - It does not override the original `/stop` functionality in Bukkit/Spigot servers.
 ## How to install
 1. Shut down your BungeeCord instance: first click on the Stop button on your Pterodactyl panel andthen type `end` in console.
-2. Upload `PteroBungee-v1.1.0.jar` to the "plugins" folder.
+2. Upload `PteroBungee-v1.2.0.jar` to the "plugins" folder.
 3. Start the BungeeCord instance.
 ## Download
-- Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/).
+- Download from [Direct](https://data.harrydev.me/PteroBungee/PteroBungee-1.2.0.jar).
 - Download from [GitHub](https://github.com/sparkedhost/PteroBungee/releases).
