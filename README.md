@@ -78,7 +78,7 @@ anyone will modify it.
 panel and then type `end` in console. Alternatively, you could click on Stop and then
 Kill, but the first method ensures that your instance turns off gracefully, avoiding any
 data loss.
-2. Upload `PteroBungee-v1.1.0.jar` to the "plugins" folder of your server
+2. Upload `PteroBungee-v1.2.0.jar` to the "plugins" folder of your server
 3. Start the BungeeCord instance back up.
 
 And that's it!
