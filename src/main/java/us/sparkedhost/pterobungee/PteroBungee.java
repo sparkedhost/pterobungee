@@ -8,20 +8,13 @@ import us.sparkedhost.pterobungee.Commands.StopCommand;
 import java.util.logging.Level;
 
 public final class PteroBungee extends Plugin {
-
-    int i = (int) System.currentTimeMillis();
-
     @Override
     public void onEnable() {
         // Plugin startup logic
         getProxy().getPluginManager().registerCommand(this, new StopCommand());
         getLogger().log(Level.INFO, "PteroBungee loaded. v" + getProxy().getPluginManager().getPlugin("PteroBungee").getDescription().getVersion() + " developed by SparkedHost");
-        Runnable doneOutput = new Runnable() {
-            public void run() {
-                sendStartedMsg();
-            }
-        };
-        new Thread(doneOutput).start();
+        Runnable doneOutput = this::sendStartedMsg;
+        getProxy().getScheduler().runAsync(this, doneOutput);
     }
 
     @Override
@@ -31,8 +24,6 @@ public final class PteroBungee extends Plugin {
     }
 
     public void sendStartedMsg() {
-        int result = (int) System.currentTimeMillis() - i;
         ProxyServer.getInstance().getConsole().sendMessage(new TextComponent("Done (PteroBungee)! For help, type \"help\" or \"?\""));
     }
-
 }
