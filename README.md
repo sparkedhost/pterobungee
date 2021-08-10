@@ -85,5 +85,5 @@ And that's it!
 
 ## Download
 
-- Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee/PteroBungee-v1.1.0.jar).
+- Download from [BetTD.me](https://builds.bettd.me/java/bungeecord/pterobungee).
 - Download from [GitHub](https://github.com/sparkedhost/PteroBungee/releases).
