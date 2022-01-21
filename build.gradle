@@ -11,8 +11,8 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.2'
-    compileOnly 'net.md-5:bungeecord-api:1.16-R0.4'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+    compileOnly 'net.md-5:bungeecord-api:1.18-R0.1-SNAPSHOT'
 }
 
 sourceCompatibility = '1.8'
