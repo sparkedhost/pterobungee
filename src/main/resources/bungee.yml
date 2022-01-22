@@ -1,5 +1,5 @@
 name: PteroBungee
 version: 1.2.1
-main: PteroBungee
+main: com.sparkedhost.pterobungee.PteroBungee
 description: Workaround for Pterodactyl's inability to properly interact with BungeeCord servers - fixes "Starting..." status and Stop button.
 author: Sparked Host
