@@ -1,4 +1,4 @@
-package us.sparkedhost.pterobungee.Commands;
+package com.sparkedhost.pterobungee.Commands;
 
 import net.md_5.bungee.api.CommandSender;
 import net.md_5.bungee.api.ProxyServer;

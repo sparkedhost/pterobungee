@@ -1,9 +1,9 @@
-package us.sparkedhost.pterobungee.Commands;
+package com.sparkedhost.pterobungee.Commands;
 
+import com.sparkedhost.pterobungee.PteroVelocity;
 import com.velocitypowered.api.command.CommandSource;
 import com.velocitypowered.api.command.SimpleCommand;
 import com.velocitypowered.api.proxy.Player;
-import us.sparkedhost.pterobungee.PteroVelocity;
 
 public class VelocityStopCommand implements SimpleCommand {
     @Override

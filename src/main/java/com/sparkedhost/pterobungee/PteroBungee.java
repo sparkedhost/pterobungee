@@ -1,9 +1,9 @@
-package us.sparkedhost.pterobungee;
+package com.sparkedhost.pterobungee;
 
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.plugin.Plugin;
-import us.sparkedhost.pterobungee.Commands.BungeeStopCommand;
+import com.sparkedhost.pterobungee.Commands.BungeeStopCommand;
 
 import java.util.logging.Level;
 

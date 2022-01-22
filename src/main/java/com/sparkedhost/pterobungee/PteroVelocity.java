@@ -1,4 +1,4 @@
-package us.sparkedhost.pterobungee;
+package com.sparkedhost.pterobungee;
 
 import com.google.inject.Inject;
 import com.velocitypowered.api.command.CommandManager;
@@ -7,7 +7,7 @@ import com.velocitypowered.api.event.proxy.ProxyInitializeEvent;
 import com.velocitypowered.api.plugin.Plugin;
 import com.velocitypowered.api.proxy.ProxyServer;
 import org.slf4j.Logger;
-import us.sparkedhost.pterobungee.Commands.VelocityStopCommand;
+import com.sparkedhost.pterobungee.Commands.VelocityStopCommand;
 
 @Plugin(id = "pterobungee", name = "PteroBungee", version = "1.2.1-Velocity", url = "https://github.com/SparkedHost/PteroBungee", authors = "BetTD")
 public class PteroVelocity {
