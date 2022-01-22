@@ -9,7 +9,7 @@ import com.velocitypowered.api.proxy.ProxyServer;
 import org.slf4j.Logger;
 import us.sparkedhost.pterobungee.Commands.VelocityStopCommand;
 
-@Plugin(id = "pterobungee", name = "PteroBungee", version = "1.2.1", url = "https://github.com/SparkedHost/PteroBungee", authors = "BetTD")
+@Plugin(id = "pterobungee", name = "PteroBungee", version = "1.2.1-Velocity", url = "https://github.com/SparkedHost/PteroBungee", authors = "BetTD")
 public class PteroVelocity {
     public static PteroVelocity instance;
     public final ProxyServer server;
