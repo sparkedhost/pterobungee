@@ -12,7 +12,7 @@ public final class PteroBungee extends Plugin {
     public void onEnable() {
         // Plugin startup logic
         getProxy().getPluginManager().registerCommand(this, new BungeeStopCommand());
-        getLogger().log(Level.INFO, "PteroBungee loaded. v" + this.getDescription().getVersion() + " developed by" + this.getDescription().getAuthor());
+        getLogger().log(Level.INFO, "PteroBungee loaded. v" + this.getDescription().getVersion() + " developed by " + this.getDescription().getAuthor());
         Runnable doneOutput = this::sendStartedMsg;
         getProxy().getScheduler().runAsync(this, doneOutput);
     }
